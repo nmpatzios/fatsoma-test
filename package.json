@@ -1,0 +1,8 @@
+{
+  "name": "fatsoma-test",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

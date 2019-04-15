@@ -1,0 +1,8 @@
+/bin
+/pkg
+/dist
+/node_modules
+/vendor/bin
+/vendor/pkg
+
+
